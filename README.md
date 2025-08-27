@@ -24,7 +24,7 @@ This project is focused on predictive analysis using machine learning. The objec
 
 ## 📂 Dataset  
 - **Source**: [Kaggle Titanic Dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset)  
-- **File**: `train.csv`  
+- **File**: `Titanic.csv`  
 - **Size**: ~891 rows  
 - **Features**:
   - `PassengerId`, `Name`, `Sex`, `Age`, `SibSp`, `Parch`, `Ticket`, `Fare`, `Cabin`, `Embarked`, `Survived`
